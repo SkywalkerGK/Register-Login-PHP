@@ -15,7 +15,7 @@
         <h2>Register</h2>
     </div>
 
-    <form action="register_db.php">
+    <form action="register_db.php" method="post">
         <div class="input-group">
             <label for="username">Username</label>
             <input type="text" name="username">
